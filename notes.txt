@@ -1,0 +1,10 @@
+https://lite.datasette.io/?url=https://github.com/agouliel/songs/blob/main/alexdb.sqlite3
+
+https://lite.datasette.io/?install=datasette-mp3-audio&url=https://github.com/agouliel/songs/blob/main/alexdb.sqlite3
+
+example:
+https://github.com/matteason/scotrail-announcements-june-2022/blob/main/announcements/0008.mp3
+https://github.com/matteason/scotrail-announcements-june-2022/raw/main/announcements/0008.mp3
+
+mine:
+https://github.com/agouliel/songs/blob/main/Antzela-100.mp3
