@@ -1,14 +1,8 @@
-https://lite.datasette.io/?url=https://github.com/agouliel/songs/blob/main/alexdb.sqlite3
+https://simonwillison.net/2022/Aug/21/scotrail/
+
 
 https://lite.datasette.io/?install=datasette-mp3-audio&url=https://github.com/agouliel/songs/blob/main/alexdb.sqlite3
 
-example:
-https://github.com/matteason/scotrail-announcements-june-2022/blob/main/announcements/0008.mp3
-https://github.com/matteason/scotrail-announcements-june-2022/raw/main/announcements/0008.mp3
-
-mine:
-https://github.com/agouliel/songs/blob/main/Antzela-100.mp3
-https://github.com/agouliel/songs/raw/main/Antzela-100.mp3
-
-
-update songs set comments='https://github.com/agouliel/songs/raw/main/Antzela-100.mp3' where iid=9909;
+update songs
+set comments='https://github.com/agouliel/songs/raw/main/Antzela-100.mp3'
+where iid=9909;
