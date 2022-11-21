@@ -8,3 +8,7 @@ https://github.com/matteason/scotrail-announcements-june-2022/raw/main/announcem
 
 mine:
 https://github.com/agouliel/songs/blob/main/Antzela-100.mp3
+https://github.com/agouliel/songs/raw/main/Antzela-100.mp3
+
+
+update songs set comments='https://github.com/agouliel/songs/raw/main/Antzela-100.mp3' where iid=9909;
